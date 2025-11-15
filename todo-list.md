@@ -1,5 +1,8 @@
 # To-Do list for Butterium development 📒
 
+- [ ] HEX code accent colours
+> https://github.com/Keksuccino/FancyMenu/issues/1398
+
 - [ ] Allow compatible mods to be installed from in-game
 > "You have unsaved changes" text for when the user needs to restart their game
 
