@@ -1,6 +1,6 @@
 # To-Do list for Butterium development 📒
 
-- Allow compatible mods to be installed from in-game
+- [ ] Allow compatible mods to be installed from in-game
 > "You have unsaved changes" text for when the user needs to restart their game
 
 > Inspired by Lunar and Feather mods screens- showing just icons and some way of viewing descriptions
