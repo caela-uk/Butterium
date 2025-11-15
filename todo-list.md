@@ -59,10 +59,10 @@
 > Would allow for multiple languages to be supported and for labels to change with resource packs
 
 - [ ] Animated background (GIF, MP4 and MOV support)
-> Likely to be used for custom backgrounds
+> Likely to be used for user-added custom backgrounds
 
 - [ ] Use the accent colour in more places and improve UI design
 > Follow where OreUI would normally put its default green accent colour
 
 - [ ] Tools for resource pack creators
-> With new FancyMenu v3.8.0 actions 
+> With new FancyMenu v3.8.0 actions - imagine making a resource pack just by walking around your world and clicking blocks to change their texture by selecting a png from your system. This will update the pack you're working on in real time but won't **replace** messing with files
