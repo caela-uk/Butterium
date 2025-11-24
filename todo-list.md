@@ -1,7 +1,26 @@
 # To-Do list for Butterium development 📒
 
+- [ ] Kill counter
+> Maybe similar to Fortnite- skull icon?
+> credit: fishandchips
+
+- [ ] Custom HUD item counters
+> e.g. gapples, arrows, potions
+> credit: fishandchips
+
+- [ ] Recreate Appleskin in SpiffyHUD
+> Kek said something in the FancyMenu Repo about this
+
+- [ ] Armor and tool durability notifications
+> credit: fishandchips
+
+- [ ] Armor durability HUD
+> credit: fishandchips
+
 - [x] Port to 1.21.1 Fabric
-> I can't port to NeoForge, sorry
+> I can't port to NeoForge yet, sorry
+
+- [ ] [`ButterCord > #💡︱feature-requests`](https://discord.com/channels/1388641212977909881/1442602031935127673/1442622042854653982)
 
 - [ ] HEX code accent colours
 > https://github.com/Keksuccino/FancyMenu/issues/1398
@@ -59,6 +78,9 @@
 - [ ] Move Butterium assets to a resource pack
 > Would allow for resource packs to change Butterium assets
 
+- [ ] Light and Midnight UI themes
+> credit: fishandchips
+
 - [ ] Replace button labels and text with localisation keys
 > Would allow for multiple languages to be supported and for labels to change with resource packs
 
@@ -70,3 +92,7 @@
 
 - [ ] Tools for resource pack creators
 > With new FancyMenu v3.8.0 actions - imagine making a resource pack just by walking around your world and clicking blocks to change their texture by selecting a png from your system. This will update the pack you're working on in real time but won't **replace** messing with files
+
+- [ ] Toggleable health indicators
+> Could be done with a resource pack or mod
+> credit: fishandchips
