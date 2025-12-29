@@ -11,7 +11,7 @@
 - [ ] Kill counter
 > ↳  Maybe similar to Fortnite- skull icon?
 
-> ↳  credit: fishandchips
+>    credit: fishandchips
 
 - [ ] Move text to localization keys
 > ↳  This would allow for translations of buttons and text
