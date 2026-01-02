@@ -27,6 +27,8 @@
 - [ ] Better/nicer fast leaves RP built-in
 > ↳  When applying video settings or loading in for the first time, check for fast leaves before loading the RP
 
+- [ ] Screenshot previews and viewer
+
 - [ ] Hook in with Blossom Events
 > ↳  PvP practise gamemode too or something
 
