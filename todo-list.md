@@ -5,13 +5,17 @@
 - [ ] ButterHost integration and features
 > ↳  Like starting a free trial from in game *(referral system too)*
 
+- [ ] Resizable HUD widgets
+
+- [ ] Translucent HUD widget backgrounds
+
 - [ ] Configure the "Crash Assistant" mod
 
 - [ ] Set up Discord Status (again)
 
 - [ ] e4mc fork with custom username.butr.fun IP for world sharing
 
-- [ ] Sponsored servers? Default to sponsored.butr.fun on quick connect first launch
+- [ ] Partnered servers? Default to partner.butr.fun on quick connect first launch
 
 - [ ] Installer, launcher and minimal mobile app
 
@@ -19,7 +23,7 @@
 > ↳  Also allow resource pack to edit configs and stuff with txts like overrides (prompt first)
 
 - [ ] Spec detection and optimization 
-> ↳  Optimize configs, options and the mods enabled
+> ↳  Optimize configs, options and the mods enabled - 3 presets of mods (RAM bottlenecked, low-mid end, mid-high end, ULTRA)
 
 - [ ] Simple and temporary Python Butterium launcher and installer
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
