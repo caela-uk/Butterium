@@ -5,13 +5,15 @@
 - [ ] ButterHost integration and features
 > ↳  Like starting a free trial from in game *(referral system too)*
 
+- [ ] Crash Assistant with Discord link
+
+- [ ] Fix Modrinth "listings"
+
 - [ ] Resizable HUD widgets
 
 - [ ] Translucent HUD widget backgrounds
 
-- [ ] Configure the "Crash Assistant" mod
-
-- [ ] Set up Discord Status (again)
+- [ ] Set up Discord Status to include 
 
 - [ ] e4mc fork with custom username.butr.fun IP for world sharing
 
@@ -19,7 +21,7 @@
 
 - [ ] Installer, launcher and minimal mobile app
 
-- [ ] Move assets to resources
+- [ ] Move assets to resources and rework all icons as pixel-perfect images (maybe with seperate folder for included shadows)
 > ↳  Also allow resource pack to edit configs and stuff with txts like overrides (prompt first)
 
 - [ ] Spec detection and optimization 
@@ -27,9 +29,6 @@
 
 - [ ] Simple and temporary Python Butterium launcher and installer
 > ↳  It's being developed by **me**, Claude and Gemini lmfao
-
-- [ ] Better/nicer fast leaves RP built-in
-> ↳  When applying video settings or loading in for the first time, check for fast leaves before loading the RP
 
 - [ ] Screenshot previews and viewer
 
@@ -49,19 +48,11 @@
 
 >    credit: fishandchips
 
-- [ ] Recreate Appleskin in SpiffyHUD
-> ↳  Kek said something in the FancyMenu Repo about this
-
-- [ ] Armor and tool durability notifications
-> ↳  credit: fishandchips
-
-- [ ] Armor durability HUD
+- [x] Armor and tool durability notifications
 > ↳  credit: fishandchips
 
 - [ ] Ports to 1.21.1 and 1.20.1 Fabric
 > ↳  Also just try NeoForge
-
-- [ ] [`ButterCord > #💡︱feature-requests`](https://discord.com/channels/1388641212977909881/1442602031935127673/1442622042854653982)
 
 - [ ] HEX code accent colours
 > ↳  https://github.com/Keksuccino/FancyMenu/issues/1398
@@ -87,13 +78,13 @@
 
 - [ ] Credits screen with Butterium settings
 
-- [ ] Open screen effects GIF (maybe at the mouse cursor)
+- [ ] Click FX at the cursor
 
-- [ ] Space background with intense reverse parallax effect
+- [ ] Space background with intense reversed parallax effect
 
 - [ ] Donate and Discord buttons in options
 
-- [ ] Fix variable names and values
+- [ ] Fix variable names and values + simplify and optimize all layouts and element anchors
 > ↳  This will help users better understand Butterium and edit the FM configuration
 
 - [ ] Known mod incompatibility warning from GitHub (ver).txt
@@ -105,19 +96,16 @@
 - [ ] Custom inventory shortcuts
 > ↳  Should be styled like the inventory and also adapt to resource packs, maybe contact some RP creators to add support
 
-- [ ] Remove some layouts for settings menus
+- [x] Remove some layouts for settings menus
 > ↳  Would improve mod compatability with mods that change settings
 
 - [ ] Send specs to API on command using MC username
 > ↳  Optionally also logs but we must ask for the users explicit permission and warn them of what logs store before doing anything
 
 - [ ] Advanced customisation button in personalisation and Credits menus that leads to new menu
-> ↳  This menu should allow for the changing of asset locations and teach users how to create resource packs too
+> ↳  This menu should teach users how to create and download resource packs for Butterium
 
-- [ ] Custom background replacing "0" in the BG carousel
-
-- [ ] Move Butterium assets to a resource pack
-> ↳  Would allow for resource packs to change Butterium assets
+- [x] Custom background replacing "0" in the BG carousel
 
 - [ ] Light and Midnight UI themes
 > ↳  credit: fishandchips
@@ -128,11 +116,11 @@
 - [ ] Animated background (GIF, MP4 and MOV support)
 > ↳  Likely to be used for user-added custom backgrounds
 
-- [ ] Use the accent colour in more places and improve UI design
+- [x] Use the accent colour in more places and improve UI design
 > ↳  Follow where OreUI would normally put its default green accent colour
 
 - [ ] Tools for resource pack creators
-> ↳  With new FancyMenu v3.8.0 actions - imagine making a resource pack just by walking around your world and clicking blocks to change their texture by selecting a png from your system. This will update the pack you're working on in real time but won't **replace** messing with files
+> ↳  W/ FMv3.8.0 - imagine making a resource pack just by walking around your world and clicking blocks to change their texture by selecting a png from your system. This will update the pack you're working on in real time but won't **replace** messing with files
 
 - [ ] Toggleable health indicators
 > ↳  Could be done with a resource pack or mod
